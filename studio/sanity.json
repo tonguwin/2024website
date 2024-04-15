@@ -2,7 +2,11 @@
   "root": true,
   "api": {
     "dataset": "production",
+<<<<<<< HEAD
     "projectId": "efxa8k44"
+=======
+    "projectId": "ch0ck8ut"
+>>>>>>> origin/main
   },
   "project": {
     "name": "homepage-starter"
